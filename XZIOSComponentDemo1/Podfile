@@ -1,0 +1,5 @@
+target 'XZIOSComponentDemo1' do
+
+pod "HandyFrame"
+
+end
